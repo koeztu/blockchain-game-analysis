@@ -8,7 +8,7 @@ Some performance improvements have been made too. But the combinatorial explosio
 
 
 ### IMPORTANT NOTICE 
-It is possible that running the code on a huge blockchain with an extremely long time-horizon 'TT' for the extended blockchain could cause your computer to run out of memory. The code makes use of recursion and there is no limit on how much ram it could potentially eat up. I have not tested this and there are no safties in place to prevent your computer from seizing up. Be warned :)
+It is possible that running the code on a huge blockchain with an extremely long time-horizon 'TT' for the extended blockchain could cause your computer to run out of memory. The code makes use of recursion and there is no limit on how much ram it could potentially eat up. I have not tested this and there are no safeties in place to prevent your computer from seizing up. Be warned :)
 
 
 ---
