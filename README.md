@@ -4,7 +4,7 @@ We can now calculate the optimal strategy in period 't' for any miner for any (r
 
 It is also possible to specify a base chain 'by-hand'.
 
-Some performance improvements have been made too. But the combinatorial explosion really does slow things down. On my machine it usually takes around 1 second to calculate the optimal strategy for a miner on a base chain of length 10 (exluding genesis block) and an extended horizon of 5 periods. The time it takes also depend on the number of blocks without a child, since the recursion function is called at each one of those.
+Some performance improvements have been made too. But the combinatorial explosion really does slow things down. On my machine it usually takes around 1 second to calculate the optimal strategy for a miner on a base chain of length 10 (exluding genesis block), an extended horizon of 5 periods, and 3 miners. The time it takes also depend on the number of blocks without a child, since the recursion function is called at each one of those.
 
 
 ### IMPORTANT NOTICE 
