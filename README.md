@@ -1,11 +1,17 @@
-# blockchain-game-analysis
+# Analysis of finite blockchain games, the rational strategy
 
-Major performance improvements have been made. It now runs approximately 3 times faster.
+A work-in-progress Python implementation for our analysis. 
 
-Functions to test some propositions have been implemented too.
+## What we can
+- Calculate payoff-matrices for any blockchain and any game lengtt T.
+- Verify that the equilibrium path never leads to a fork for any game length T.
+
+## What is next?
+- Test if a miner ever (off-path) switches to a shorter branch.
+- Test if a miner ever (off-path) ever switches away from a branch they already won a block on.
 
 
 ---
 Please read in-file comments for further explanations.
 
-Files last updated on Feb. 21
+Files last updated on Apr. 3
