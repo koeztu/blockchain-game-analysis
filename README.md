@@ -1,7 +1,8 @@
-# Analysis of finite blockchain games.
+# Bachelor Thesis
 
-A work-in-progress Python implementation for our analysis. 
+Game-theoretic Analysis of Optimal Blockchain Mining Strategies: The Computational Perspective
 
+Departement of Economics (Econ), University of Zurich
 
----
-Please read notebook comments for further explanations.
+Supervisor: Prof. Dr. Christian Ewerhart
+Author: Kenan Öztürk
